@@ -4,8 +4,6 @@ Upload one or more PDFs and ask questions about them — answers are generated o
 
 **🔴 Live demo: _[coming soon — deploying to Streamlit Community Cloud]_**
 
-![RAG PDF Chatbot screenshot](docs/screenshot.png)
-
 ## Architecture
 
 ```
