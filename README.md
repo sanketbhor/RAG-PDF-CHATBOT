@@ -2,7 +2,7 @@
 
 Upload one or more PDFs and ask questions about them — answers are generated only from the document content, with source chunks shown for verification, so you're not stuck ctrl+F-ing through long PDFs or trusting an LLM's memory instead of your actual document.
 
-**🔴 Live demo: _[coming soon — deploying to Streamlit Community Cloud]_**
+**🟢 Live demo: [ragpdfchatbot-sanket-bhor.streamlit.app](https://ragpdfchatbot-sanket-bhor.streamlit.app/)**
 
 ## Architecture
 
